@@ -1,4 +1,5 @@
-@extends('frontend.layouts.app')
+{{-- @extends('frontend.layouts.app') --}}
+@extends('admin.layouts.master')
 
 @section('title', __('My Account'))
 

@@ -1,4 +1,4 @@
-@extends('frontend.layouts.app')
+@extends('admin.layouts.horizontal')
 
 @section('title', __('Register'))
 

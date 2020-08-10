@@ -1,4 +1,4 @@
-@extends('backend.layouts.app')
+@extends('admin.layouts.master')
 
 @section('title', __('Change Password for :name', ['name' => $user->name]))
 

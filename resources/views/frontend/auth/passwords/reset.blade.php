@@ -1,4 +1,4 @@
-@extends('frontend.layouts.app')
+@extends('admin.layouts.master')
 
 @section('title', __('Reset Password'))
 
