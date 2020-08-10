@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Laravel Boilerplate (Current: Laravel 7.*) ([Demo](https://demo.laravel-boilerplate.com))
 
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
@@ -50,3 +51,7 @@ If you would like to help the continued efforts of this project, any size [donat
 ### License
 
 MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
+=======
+# mbi
+makerere business institute
+>>>>>>> 1b1cb3f40744ffa8484463a0043387b0f37067c0
